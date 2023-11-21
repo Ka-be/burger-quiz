@@ -1,11 +1,11 @@
 # 🍔 Burger Quiz App - ![Status](https://img.shields.io/badge/Status-Not%20started-eb3b5a?style=flat-square)
 
-![Status](https://img.shields.io/badge/Status-On%20going-fd9644?style=flat-square)
+<!--![Status](https://img.shields.io/badge/Status-On%20going-fd9644?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Finished-20bf6b?style=flat-square)
 
-<img src="img/logo.svg" width=10%>
+<img src="img/logo.svg" width=10%>-->
 
-Description du projet
+Burger Quiz App
 
 ---
 
@@ -30,13 +30,13 @@ Description du projet
 ## 💡 Features
 
 ![Responsive](https://img.shields.io/badge/Responsive-None-E74C3C?style=flat-square)
-![Responsive](https://img.shields.io/badge/Responsive-Partial-3498DB?style=flat-square)
+<!--![Responsive](https://img.shields.io/badge/Responsive-Partial-3498DB?style=flat-square)
 ![Responsive](https://img.shields.io/badge/Responsive-Full-27AE60?style=flat-square)
 
 - Light/dark mode toggle
 - Live previews
 - Fullscreen mode
-- Cross platform
+- Cross platform-->
 
 ---
 
@@ -69,11 +69,11 @@ Description du projet
 
 ---
 
-## 📸 Screenshots
+<!--## 📸 Screenshots
 
 <img src="img/screenshot.png" width=50%>
 
----
+----->
 
 ## 🔗 Links
 
